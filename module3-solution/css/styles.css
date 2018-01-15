@@ -1,0 +1,10 @@
+#nav-list a {
+	text-align: center;
+}
+
+#sushi, #chicken, #beef {
+	float: none;
+	border: 2px solid black;
+	width: 80%;
+	margin: 0 auto 5px auto;
+}
