@@ -1,10 +1,19 @@
 #nav-list a {
-	text-align: center;
+	border: black solid 1px;
+	margin: 1px;
+}
+
+.navbar-brand span{
+	color: black;
+	font-size: 1.5em;
 }
 
 #sushi, #chicken, #beef {
 	float: none;
 	border: 2px solid black;
-	width: 80%;
+	width: 98%;
 	margin: 0 auto 5px auto;
+	background: black;
+	opacity: 0.9;
+	color: white;
 }
