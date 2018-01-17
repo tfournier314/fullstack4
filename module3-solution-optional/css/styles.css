@@ -1,0 +1,21 @@
+#nav-list a {
+	border: black solid 1px;
+	margin: 1px;
+}
+
+.navbar-brand span{
+	color: black;
+	font-size: 1.5em;
+}
+
+#sushi, #chicken, #beef {
+	border: 2px solid white;
+	background: black;
+	opacity: 0.9;
+	color: white;
+}
+
+#main-content a {
+	text-transform: uppercase;
+}
+
